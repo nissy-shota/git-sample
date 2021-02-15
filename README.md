@@ -1,3 +1,4 @@
 # git-sample
 
-MAIN branch 
+
+change by conflict branch
