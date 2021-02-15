@@ -1,3 +1,3 @@
 # git-sample
 
-no fast forward
+change by conflict branch
