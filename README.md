@@ -1,5 +1,6 @@
 # git-sample
 
 
-change by conflict branch  
-change on Github  2
+change by conflict branch
+change on conflict remote
+
